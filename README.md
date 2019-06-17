@@ -1,2 +1,2 @@
-# docker-java
-Docker for Java
+# java-docker-template
+Docker Template for Java Application
